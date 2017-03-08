@@ -1,0 +1,26 @@
+body {    
+background-color: black;
+color: gold;
+}
+code {
+color: lightsalmon;
+background-color: black;
+}
+h4 {
+color: white;
+}
+p{
+    color: white;
+    font-size: 16pt;
+}
+li{
+    list-style: none;
+}
+a:link, a:visited {
+  color: lightskyblue;
+  text-decoration: none;
+}
+a:hover, a:active{
+    color: white;
+    text-decoration: none;
+}
